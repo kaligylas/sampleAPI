@@ -10,6 +10,9 @@
     }
   ],
   "require": {
-    "twig/twig": "v2.4.4"
+    "twig/twig": "v2.4.4",
+    "symfony/http-foundation": "v3.4.4",
+    "filp/whoops": "2.1.14",
+    "nikic/fast-route": "v1.2.0"
   }
 }

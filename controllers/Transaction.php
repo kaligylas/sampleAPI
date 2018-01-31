@@ -1,6 +1,8 @@
 <?php
 
-use sampleAPI\services\Request;
+namespace sampleAPI\controllers;
+
+use Symfony\Component\HttpFoundation\Request;
 
 class Transaction
 {
